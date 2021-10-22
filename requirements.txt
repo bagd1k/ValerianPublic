@@ -1,0 +1,9 @@
+schedule
+PyTelegramBotAPI
+pygsheets
+requests
+vk_api
+pymongo[srv]
+lxml
+urllib3==1.25.11
+pillow
